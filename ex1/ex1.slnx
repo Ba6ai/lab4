@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ex2/ex2.fsproj" Id="d9093e40-630b-444e-89ad-cdacae413f57" />
+  <Project Path="ex1.fsproj" />
+</Solution>
