@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\ex1.fsproj": {}
+    "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\ex1.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\ex1.fsproj": {
+    "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\ex1.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\ex1.fsproj",
+        "projectUniqueName": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\ex1.fsproj",
         "projectName": "ex1",
-        "projectPath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\ex1.fsproj",
+        "projectPath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\ex1.fsproj",
         "packagesPath": "C:\\Users\\elise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\obj\\",
+        "outputPath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elise\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\10.0.200\\FSharp\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\8.0.401\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,8 +35,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -45,7 +44,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[11.0.100, )",
+              "version": "[8.0.400, )",
               "generatePathProperty": true
             }
           },
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

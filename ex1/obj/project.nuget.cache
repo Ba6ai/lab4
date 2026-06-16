@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ygi+YZbVbvo=",
+  "dgSpecHash": "gAnbOQk5Dzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\lab4\\ex1\\ex1.fsproj",
+  "projectFilePath": "C:\\Users\\elise\\OneDrive\\УНИК\\2Курс\\2\\ЯП\\kt1\\lab4\\ex1\\ex1.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\elise\\.nuget\\packages\\fsharp.core\\11.0.100\\fsharp.core.11.0.100.nupkg.sha512"
+    "C:\\Users\\elise\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
   ],
   "logs": []
 }
